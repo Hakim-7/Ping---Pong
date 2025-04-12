@@ -1,2 +1,2 @@
-# Ping-Pong
+# Ping - Pong
 Ping - Pong.py
